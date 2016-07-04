@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "txtFirstName": "Ganesh",
+    "txtLastName": "Hanumandla",
+    "txtMobileNo": "9898989898",
+    "txtEmailid": "ganesh.hanumandla@citiustech.com",
+    "status": 0
+}, {
+    "id": 2,
+    "txtFirstName": "Ganesh",
+    "txtLastName": "Hanumandla",
+    "txtMobileNo": "9898989898",
+    "txtEmailid": "ganesh.hanumandla@citiustech.com",
+    "status": 0
+}, {
+    "id": 3,
+    "txtFirstName": "Raviraj",
+    "txtLastName": "Hanumandla",
+    "txtMobileNo": "9898989898",
+    "txtEmailid": "ganesh.hanumandla@citiustech.com",
+    "status": 0
+}]
